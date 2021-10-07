@@ -8,7 +8,7 @@
       }
     },
     "color": {
-      "value": ["#dc052d"]
+      "value": ["#ac052d"]
     },
     "shape": {
       "type": "polygon",
@@ -41,7 +41,7 @@
       }
     },
     "line_linked": {
-      "enable": false
+      "enable": true
     },
     "move": {
       "enable": true,
