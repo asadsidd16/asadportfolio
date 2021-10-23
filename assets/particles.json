@@ -14,10 +14,10 @@
       "type": "polygon",
       "stroke": {
         "width": 0,
-        "color": "#000000"
+        "color": "#006ee6"
       },
       "polygon": {
-        "nb_sides": 4
+        "nb_sides": 6
       }
     },
     "opacity": {
