@@ -17,9 +17,19 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: Naked
+  title-url: https://www.howeneat.com/
+  date: Apr 2022 - Present
+  subtitle: Full stack developer
+  tags:
+    - tag: React
+    - tag: JavaScript
+    - tag: Firebase
+  timeline-side: left
+
 - title: Howe Neat, Inc.
   title-url: https://www.howeneat.com/
-  date: May 2021 - Current
+  date: May 2021 - Apr 2022
   subtitle: Full stack developer
   tags:
     - tag: React
