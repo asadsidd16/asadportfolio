@@ -25,7 +25,7 @@
     - tag: React
     - tag: JavaScript
     - tag: Firebase
-  timeline-side: left
+  timeline-side: right
 
 - title: Howe Neat, Inc.
   title-url: https://www.howeneat.com/
@@ -35,7 +35,7 @@
     - tag: React
     - tag: JavaScript
     - tag: Docker
-  timeline-side: right
+  timeline-side: left
 
 
 - title: California State University, Fullerton 

@@ -23,14 +23,9 @@
 - name: SASS
   weight: 3
 
-- name: Java
-  weight: 1
-
 - name: Swift
   weight: 1
 
 - name: C++
   weight: 2
 
-- name: Ruby
-  weight: 2
