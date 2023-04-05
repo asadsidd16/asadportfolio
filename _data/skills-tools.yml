@@ -8,7 +8,7 @@
 - name: Git
   weight: 5
 
-- name: Bash
+- name: Sequelize
   weight: 3
 
 - name: Scrum
@@ -20,7 +20,7 @@
 - name: npm
   weight: 2
 
-- name: gulp
+- name: Figma
   weight: 4
 
 - name: VS Code
