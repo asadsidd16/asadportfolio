@@ -21,12 +21,13 @@
     - tag: JavaScript
     - tag: Node
 
-- name: Covid19 Tracker
-  descr: "Project uses REACT and a API to display current information on Covid19"
-  demo: https://covid19trackerbyasad.netlify.app/
-  tags:
-    - tag: Node
+- name: Custom Shirt
+  descr: "A Fully customizable shirt powered with AI and 3D technology"
+  demo: https://custom-shirt.netlify.app/
+  tags: 
+    - tag: ThreeJS
     - tag: REACT
+    - tag: JSX
 
 - name: Connect 4
   descr: "This project is built using REACT to display a interactive connect4 game"
@@ -43,10 +44,3 @@
     - tag: REACT
     - tag: JavaScript
 
-- name: Custom Shirt
-  descr: "A Fully customizable shirt powered with AI and 3D technology"
-  demo: https://custom-shirt.netlify.app/
-  tags: 
-    - tag: ThreeJS
-    - tag: REACT
-    - tag: JSX
