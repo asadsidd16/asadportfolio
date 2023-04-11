@@ -43,3 +43,10 @@
     - tag: REACT
     - tag: JavaScript
 
+- name: Custom Shirt
+  descr: "A Fully customizable shirt powered with AI and 3D technology"
+  demo: https://custom-shirt.netlify.app/
+  tags: 
+    - tag: ThreeJS
+    - tag: REACT
+    - tag: JSX
