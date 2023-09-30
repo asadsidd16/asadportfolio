@@ -13,11 +13,13 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: OroCarrot Sun Tanning
+- name: Ecommerce phone store
   descr: "This project implements a javascript library to create a ecommerce style webpage"
-  demo: https://orocarrottanning.com/
+  demo: https://asadsiddiquireact.netlify.app/
   tags:
-    - tag: Shopify
+    - tag: REACT
+    - tag: JavaScript
+    - tag: Node
 
 - name: Custom Shirt
   descr: "A Fully customizable shirt powered with AI and 3D technology"
@@ -34,12 +36,9 @@
     - tag: Node
     - tag: REACT
 
-- name: CSV Login
-  descr: "A coding challenge to login users validated using a CSV file"
-  demo: https://csvlogin.netlify.app/
-  tags: 
-    - tag: Node
-    - tag: REACT
-    - tag: JavaScript
-
+- name: OroCarrot Sun Tanning
+  descr: "This project implements a javascript library to create a ecommerce style webpage"
+  demo: https://orocarrottanning.com/
+  tags:
+    - tag: Shopify
 
