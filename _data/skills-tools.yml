@@ -23,7 +23,7 @@
 - name: Figma
   weight: 4
 
-- name: VS Code
+- name: NodeJs
   weight: 3
 
 - name: Postman

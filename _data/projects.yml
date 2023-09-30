@@ -13,13 +13,11 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: Ecommerce phone store
+- name: OroCarrot Sun Tanning
   descr: "This project implements a javascript library to create a ecommerce style webpage"
-  demo: https://asadsiddiquireact.netlify.app/
+  demo: https://orocarrottanning.com/
   tags:
-    - tag: REACT
-    - tag: JavaScript
-    - tag: Node
+    - tag: Shopify
 
 - name: Custom Shirt
   descr: "A Fully customizable shirt powered with AI and 3D technology"
@@ -43,4 +41,5 @@
     - tag: Node
     - tag: REACT
     - tag: JavaScript
+
 
