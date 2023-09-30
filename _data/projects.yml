@@ -14,7 +14,7 @@
 #     - tag: Node
 
 - name: Ecommerce phone store
-  descr: "This project implements a javascript library to create a ecommerce style webpage"
+  descr: "This project implements a javascript library to create a ecommerce style webpage ensuring a seamless and visually captivating online shopping experience"
   demo: https://asadsiddiquireact.netlify.app/
   tags:
     - tag: REACT
@@ -22,7 +22,7 @@
     - tag: Node
 
 - name: Custom Shirt
-  descr: "A Fully customizable shirt powered with AI and 3D technology"
+  descr: "The integration of AI and 3D technology in this project pioneers new avenues, offering thrilling prospects for the future of apparel customization and design."
   demo: https://custom-shirt.netlify.app/
   tags: 
     - tag: ThreeJS
@@ -30,14 +30,14 @@
     - tag: JSX
 
 - name: Connect 4
-  descr: "This project is built using REACT to display a interactive connect4 game"
+  descr: "This project leverages the power of React to deliver an engaging and interactive Connect 4 gaming experience"
   demo: https://connect4byasad.netlify.app/
   tags: 
     - tag: Node
     - tag: REACT
 
 - name: OroCarrot Sun Tanning
-  descr: "This project implements a javascript library to create a ecommerce style webpage"
+  descr: "Leveraged Shopify to create an intuitive shopping experience for a range of premium tanning items. Collaborated closely with clients to conceptualize, design, and develop a user-centric web application dedicated to enhancing anyone to unlock their glow."
   demo: https://orocarrottanning.com/
   tags:
     - tag: Shopify
