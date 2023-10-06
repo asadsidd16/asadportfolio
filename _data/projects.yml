@@ -13,9 +13,9 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: Ecommerce phone store
-  descr: "This project implements a javascript library to create a ecommerce style webpage ensuring a seamless and visually captivating online shopping experience"
-  demo: https://asadsiddiquireact.netlify.app/
+- name: Neatmon
+  descr: "A IoT ecommerce app allowing real-time remote access and enhances your ability to streamline operations with a monitering node."
+  demo: https://hub.neatmon.com/
   tags:
     - tag: REACT
     - tag: JavaScript
@@ -29,12 +29,14 @@
     - tag: REACT
     - tag: JSX
 
-- name: Connect 4
-  descr: "This project leverages the power of React to deliver an engaging and interactive Connect 4 gaming experience"
-  demo: https://connect4byasad.netlify.app/
+- name: Coastal Viticultural Consultants, Inc.
+  descr: "This app allows measurements of agricultural data using charts and data analysis."
+  demo: https://www.coastalvit.com/
   tags: 
     - tag: Node
     - tag: REACT
+    - tag: Contentful
+    - tag: PHP
 
 - name: OroCarrot Sun Tanning
   descr: "Leveraged Shopify to create an intuitive shopping experience for a range of premium tanning items. Collaborated closely with clients to conceptualize, design, and develop a user-centric web application dedicated to enhancing anyone to unlock their glow."
