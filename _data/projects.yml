@@ -30,7 +30,7 @@
     - tag: JSX
 
 - name: Coastal Viticultural Consultants, Inc.
-  descr: "This app allows measurements of agricultural data using charts and data analysis."
+  descr: "This application empowers users to capture and analyze crucial agricultural data through intuitive charts and robust data analytics tools."
   demo: https://www.coastalvit.com/
   tags: 
     - tag: Node
