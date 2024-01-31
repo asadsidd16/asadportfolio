@@ -29,14 +29,14 @@
     - tag: REACT
     - tag: JSX
 
-- name: Coastal Viticultural Consultants, Inc.
-  descr: "This application empowers users to capture and analyze crucial agricultural data through intuitive charts and robust data analytics tools."
-  demo: https://www.coastalvit.com/
+- name: Car Showcase
+  descr: "A web application demonstrating the power of server side rendering and allowing a user to browse through a selection of cars."
+  demo: https://car-showcase-dev.vercel.app/
   tags: 
-    - tag: Node
+    - tag: NextJs
     - tag: REACT
-    - tag: Contentful
-    - tag: PHP
+    - tag: TypeScript
+    - tag: Tailwind 
 
 - name: OroCarrot Sun Tanning
   descr: "Leveraged Shopify to create an intuitive shopping experience for a range of premium tanning items. Collaborated closely with clients to conceptualize, design, and develop a user-centric web application dedicated to enhancing anyone to unlock their glow."
