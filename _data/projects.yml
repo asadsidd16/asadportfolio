@@ -21,6 +21,13 @@
     - tag: JavaScript
     - tag: Node
 
+- name: Expense Tracker
+  descr: "Our expense tracker, powered by Vue.js, is designed to simplify your financial journey, helping you gain control over your expenses effortlessly."
+  demo: https://expensetrackrr.vercel.app/
+  tags:
+    - tag: Vue
+    - tag: JavaScript
+
 - name: Custom Shirt
   descr: "The integration of AI and 3D technology in this project pioneers new avenues, offering thrilling prospects for the future of apparel customization and design."
   demo: https://custom-shirt.netlify.app/
