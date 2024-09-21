@@ -17,6 +17,16 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: Zumasys
+  title-url: https://www.zumasys.com/
+  date: Mar 2024 - Present
+  subtitle: Front end software developer
+  tags:
+    - tag: Vue
+    - tag: TypeScript
+    - tag: C#
+  timeline-side: left
+
 - title: Naked
   title-url: https://nakeddev.com/
   date: Apr 2022 - Dec 2023
