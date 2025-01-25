@@ -52,7 +52,7 @@
     - tag: Shopify
 
 - name: Rover ERP
-  descr: "Developed and debugged features using Vue, collaborating with cross-functional teams to design and implement key modules that enhanced application functionality and user experience."
+  descr: "Rover ERP is a complete operations, accounting, and inventory control solution for manufacturers and distributors."
   demo: https://www.zumasys.com/
   tags:
     - tag: Vue
