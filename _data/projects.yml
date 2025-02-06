@@ -21,11 +21,11 @@
     - tag: JavaScript
     - tag: Node
 
-- name: Expense Tracker
-  descr: "Our expense tracker, powered by Vue.js, is designed to simplify your financial journey, helping you gain control over your expenses effortlessly."
-  demo: https://expensetrackrr.vercel.app/
+- name: DishOut
+  descr: "Built a seamless front-end experience for a gratuity management platform that streamlines tip outs and tip pooling with POS integration."
+  demo: https://mydishoutapp.com/
   tags:
-    - tag: Vue
+    - tag: React
     - tag: JavaScript
 
 - name: Custom Shirt
