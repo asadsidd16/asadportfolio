@@ -36,7 +36,7 @@
     - tag: REACT
     - tag: JSX
 
-- name: Car Showcase
+- name: Dog Match
   descr: "A website to help a dog-lover search through a database of shelter dogs, with the hope of finding a lucky dog a new home!"
   demo: https://fetch-dog-adoption.netlify.app/
   tags: 
