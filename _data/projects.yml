@@ -37,16 +37,15 @@
     - tag: JSX
 
 - name: Car Showcase
-  descr: "A web application demonstrating the power of server side rendering and allowing a user to browse through a selection of cars."
-  demo: https://car-showcase-dev.vercel.app/
+  descr: "A website to help a dog-lover search through a database of shelter dogs, with the hope of finding a lucky dog a new home!"
+  demo: https://fetch-dog-adoption.netlify.app/
   tags: 
-    - tag: NextJs
     - tag: REACT
     - tag: TypeScript
-    - tag: Tailwind 
+    - tag: CSS 
 
 - name: OroCarrot Sun Tanning
-  descr: "Leveraged Shopify to create an intuitive shopping experience for a range of premium tanning items. Collaborated closely with clients to conceptualize, design, and develop a user-centric web application dedicated to enhancing anyone to unlock their glow."
+  descr: "Leveraged Shopify to create an intuitive shopping experience for a range of premium tanning items."
   demo: https://orocarrottanning.com/
   tags:
     - tag: Shopify
