@@ -29,3 +29,5 @@
 - name: ReactJs
   weight: 4
 
+- name: Nextjs
+  weight: 2
