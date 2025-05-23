@@ -38,7 +38,7 @@
     - tag: JSX
 
 - name: Dog Match
-  descr: "A website to help a dog-lover search through a database of shelter dogs, with the hope of finding a lucky dog a new home!"
+  descr: "A website to help a dog-lover search through a database of shelter dogs, with the hope of finding a lucky dog a new home! Enter name and email to access."
   demo: https://fetch-dog-adoption.netlify.app/
   tags: 
     - tag: REACT
