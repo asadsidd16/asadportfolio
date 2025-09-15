@@ -22,26 +22,25 @@
     - tag: Node
 
 - name: DishOut
-  descr: "Built a seamless front-end experience for a gratuity management platform that streamlines tip outs and tip pooling with POS integration."
+  descr: "Developed the front-end for a gratuity management platform, integrating POS systems to simplify tip pooling and payouts for restaurants."
   demo: https://mydishoutapp.com/
   tags:
     - tag: React
     - tag: JavaScript
     - tag: Next.js
 
-- name: Custom Shirt
-  descr: "The integration of AI and 3D technology in this project pioneers new avenues, offering thrilling prospects for the future of apparel customization and design."
-  demo: https://custom-shirt.netlify.app/
+- name: Activations
+  descr: "Designed and built a cross-platform mobile app (iOS/Android) delivering meditation sounds and videos to improve user wellness."
+  demo: https://www.activations.com/home
   tags: 
-    - tag: ThreeJS
-    - tag: REACT
-    - tag: JSX
+    - tag: React Native
+    - tag: Animations
 
-- name: Dog Match
-  descr: "A website to help a dog-lover search through a database of shelter dogs, with the hope of finding a lucky dog a new home! Enter name and email to access."
-  demo: https://fetch-dog-adoption.netlify.app/
+- name: Rover
+  descr: "Contributed to ERP modules covering accounting, POS, and inventory tracking, supporting manufacturers with data-driven workflows."
+  demo: https://www.roverdata.com/
   tags: 
-    - tag: REACT
+    - tag: Vue.js
     - tag: TypeScript
     - tag: CSS 
 
@@ -51,11 +50,4 @@
   tags:
     - tag: Shopify
 
-- name: Rover ERP
-  descr: "Rover ERP is a complete operations, accounting, and inventory control solution for manufacturers and distributors."
-  demo: https://www.zumasys.com/
-  tags:
-    - tag: Vue
-    - tag: CSS
-    - tag: C#
 
